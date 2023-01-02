@@ -14,7 +14,7 @@ Here's the Karnough map and the derived boolean equations for the FSM: \
 
 ## Running the Code
 Disclaimer: Make sure your terminal's space is large. Otherwise, the vending machine won't be fully displayed.\
-This is how to run the code : \
+This is how to run the code : 
 ```
 make run
 ./main.o
