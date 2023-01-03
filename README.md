@@ -2,7 +2,7 @@
 ## Finite State Machine
 In here, we will see how the FSM works in the Vending machine. \
 The FSM image can be found here:
-!["FSM"](images/fsm3.png)
+!["FSM"](images/fsm.png)
 
 ## Table
 Here's the truth table for the FSM: \
