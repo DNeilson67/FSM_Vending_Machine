@@ -6,7 +6,7 @@ The FSM image can be found here:
 
 ## Table
 Here's the truth table for the FSM: \
-!["Table"](images/table.png)
+!["Table"](images/table.jpg)
 
 ## Karnough Map and The derived Boolean equations
 Here's the Karnough map and the derived boolean equations for the FSM: \
