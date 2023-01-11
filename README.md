@@ -10,7 +10,9 @@ Here's the truth table for the FSM: \
 
 ## Karnough Map and The derived Boolean equations
 Here's the Karnough map and the derived boolean equations for the FSM: \
-!["Kmap"](images/KMapBoolean.png)
+!["Kmap"](images/KMapS0.png) \
+!["Kmap"](images/KMapS1.png) \
+!["Kmap"](images/KMapO0.png) \
 
 ## Running the Code
 Disclaimer: Make sure your terminal's space is large. Otherwise, the vending machine won't be fully displayed.\
