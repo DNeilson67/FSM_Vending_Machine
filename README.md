@@ -9,13 +9,13 @@ When the machine starts, the first state will be in the IDLE state. If the user 
 
 ## Table
 Here's the truth table for the FSM: \
-!["Table"](images/table.jpg)
+!["Table"](images/TruthTable.png)
 
 ## Karnough Map and The derived Boolean equations
 Here's the Karnough map and the derived boolean equations for the FSM: \
-!["Kmap"](images/KMapS0.jpg) \
-!["Kmap"](images/KMapS1.jpg) \
-!["Kmap"](images/KMapO0.png) \
+!["Kmap"](images/KMapState0.png) \
+!["Kmap"](images/KMapState1.png) \
+!["Kmap"](images/KMapOutput0.png) \
 
 ## Running the Code
 Disclaimer: Make sure your terminal's space is large. Otherwise, the vending machine won't be fully displayed.\
