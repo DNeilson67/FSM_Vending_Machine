@@ -130,6 +130,8 @@ void goToState(void) {
             printf("|############################################|\n");
             printf("/////////////////////////////////////////////\n");
             printf("|________________________________|VEND|___|\n");
+            printf("Choice (0/1):");
+            scanf("%d", &choice);
 			currState = -1;
             break;
         
@@ -164,9 +166,9 @@ void goToState(void) {
             printf("|############################################|\n");
             printf("/////////////////////////////////////////////\n");
             printf("|________________________________|VEND|___|\n");
-	    printf("Choice (0/1):");
+	        printf("Choice (0/1):");
             scanf("%d", &choice);
-	    currState = -1;
+	        currState = -1;
             break;
 	}
 	xsleep(3000); // Time: 3 Sec
