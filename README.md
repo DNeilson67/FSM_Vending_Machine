@@ -16,7 +16,10 @@ Here's the Karnough map and the derived boolean equations for the FSM: \
 !["Kmap"](images/KMapState0.png) \
 !["Kmap"](images/KMapState1.png) \
 !["Kmap"](images/KMapOutput0.png) \
-
+Here's the Combinatorial equations:
+$$S_0 = S_0'S_1$$
+$$S_1 = S_0'I_0$$
+$$I_0 = S_0'S_1I_0$$
 ## Running the Code
 Disclaimer: Make sure your terminal's space is large. Otherwise, the vending machine won't be fully displayed.\
 This is how to run the code : 
